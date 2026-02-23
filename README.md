@@ -19,4 +19,9 @@ A Peer-to-Peer (P2P) Stealth Messenger built using Python's `socket` library and
 
 ### Steps
 
-1. Clone the repository or download the ZIP file.
+1. Clone the repository or download the ZIP file using the following command :
+```bash
+git clone https://github.com/4zaax/p2p-stealth-messenger-python
+```
+
+2. run main.py and test features.
