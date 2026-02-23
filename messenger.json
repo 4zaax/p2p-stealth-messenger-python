@@ -1,0 +1,25 @@
+{
+    "filter_words": [
+        "bad",
+        "worse",
+        "weird",
+        "race"
+    ],
+    "users": [
+        {
+            "username": "rey",
+            "password": "1234"
+        },
+        {
+            "username": "john",
+            "password": "smith"
+        },
+        {
+            "username": "1",
+            "password": "1"
+        }
+    ]
+}
+
+
+
