@@ -25,3 +25,5 @@ git clone https://github.com/4zaax/p2p-stealth-messenger-python
 ```
 
 2. run main.py and test features.
+
+<img width="1920" height="1080" alt="project showcaes" src="https://github.com/user-attachments/assets/7cd76bca-140a-42fc-bf45-295dd0c5ef60" />
